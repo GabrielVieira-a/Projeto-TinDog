@@ -98,8 +98,6 @@ Este projeto permitiu praticar:
 
 **Gabriel**
 
-* 🔗 LinkedIn: coloque-seu-link-aqui
-* 💻 GitHub: coloque-seu-github-aqui
 
 ---
 
